@@ -6,6 +6,7 @@
 - countdown
 - components
 
+link: https://quiz-cxxxii.vercel.app/
 ## Project Setup
 
 ```sh
